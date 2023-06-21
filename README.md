@@ -1,6 +1,6 @@
 # Applied Machine Learning Project Deliverable Report
 
-Fraudulent Transaction Detection (Group 19) 
+Fraudulent Transaction Detection 
 
 Team Members (Name, UNI at Columbia)
 - Haozhong Jia, hj2622; 
@@ -8,8 +8,6 @@ Team Members (Name, UNI at Columbia)
 - Qingcheng Yu, qy2281;
 - Zain Merchant, ztm2105;
 
-# aml-4995-group-19
-AML COMS 4995 group 19 project
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
